@@ -10,8 +10,7 @@ This project reads a **gene expression CSV file**, filters for the most highly e
 
 ## 🚀 Run on Google Colab
 
-[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubh-1909/gene-expression-data-analyzer/blob/main/Gene_Expression_Data_Analyzer.ipynb)](https://colab.research.google.com/github/shubh-1909/gene-expression-data-analyzer/blob/main/Gene_Expression_Data_Analyzer.ipynb
-)
+[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubh-1909/gene-expression-data-analyzer/blob/main/Gene_Expression_Data_Analyzer_ipynbb.ipynb)]
 
 ---
 
